@@ -24,6 +24,17 @@ The application performs data preprocessing, model training, performance evaluat
 ## 📂 Dataset
 
 **Dataset Used:** DataCo Supply Chain Dataset
+## 📂 Dataset
+
+This project uses the **DataCo Supply Chain Dataset**.
+
+The dataset is not included in this repository due to its size and/or licensing considerations.
+
+You can download it from Kaggle:
+
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+
+After downloading, place the dataset file (`DataCoSupplyChainDataset.csv`) in the project root directory before running the application.
 
 The dataset contains real-world supply chain and retail information, including:
 
